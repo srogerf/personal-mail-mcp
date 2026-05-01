@@ -1,0 +1,12 @@
+# Copy to config/auth.toml and fill in local-only OAuth app values.
+# Do not commit config/auth.toml.
+
+[microsoft]
+# Public/native app client ID with Microsoft Graph delegated permissions.
+client_id = "00000000-0000-0000-0000-000000000000"
+tenant = "common"
+
+[google]
+# OAuth Desktop client JSON downloaded from Google Cloud Console.
+client_secrets_file = ".private/google-oauth-client.json"
+

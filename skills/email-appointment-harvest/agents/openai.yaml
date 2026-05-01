@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Appointment Harvest"
+  short_description: "Find appointments in email."
+  default_prompt: "Scan recent email for appointment requests and reminders, propose calendar entries, and add only the entries I approve."

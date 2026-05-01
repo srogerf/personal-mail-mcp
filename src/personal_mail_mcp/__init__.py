@@ -1,0 +1,2 @@
+"""Personal mail MCP server."""
+

@@ -1,0 +1,21 @@
+# Copy to config/accounts.toml and fill in local-only values.
+# Do not commit config/accounts.toml.
+
+[[accounts]]
+id = "godaddy_primary"
+provider = "microsoft"
+email = "you@example.com"
+calendar = true
+
+[[accounts]]
+id = "godaddy_secondary"
+provider = "microsoft"
+email = "you2@example.com"
+calendar = false
+
+[[accounts]]
+id = "gmail"
+provider = "google"
+email = "you@gmail.com"
+calendar = false
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review All Mail"
+  short_description: "Run full mail and calendar review."
+  default_prompt: "Use $review-all-mail to check calendar items, triage Inbox mail, review missed non-Inbox mail, and report moves plus filter ideas."

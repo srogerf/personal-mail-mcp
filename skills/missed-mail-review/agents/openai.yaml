@@ -1,0 +1,4 @@
+interface:
+  display_name: "Missed Mail Review"
+  short_description: "Review unread mail outside Inbox."
+  default_prompt: "Use $missed-mail-review to check unread mail outside my Inbox and summarize anything needing attention."

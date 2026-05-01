@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inbox Triage"
+  short_description: "Plan and apply Inbox cleanup."
+  default_prompt: "Use $inbox-triage to generate a dry-run archive plan for my inboxes."

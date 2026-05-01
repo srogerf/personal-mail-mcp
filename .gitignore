@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local-only auth/config material.
+.private/
+.tokens/
+config/accounts.toml
+config/auth.toml
+config/mail_rules.local.toml
