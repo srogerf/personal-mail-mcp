@@ -2,6 +2,10 @@
 
 Local MCP server for Codex access to personal mail and calendar accounts.
 
+This project is provided as-is. It works for my own setup, but it has not been
+tested broadly across other accounts, tenants, mail providers, or Outlook/Gmail
+configurations.
+
 Current target:
 
 - GoDaddy-hosted Exchange mailboxes and calendar through Microsoft Graph.
