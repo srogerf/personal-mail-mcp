@@ -2,6 +2,13 @@
 
 Local MCP server for Codex access to personal mail and calendar accounts.
 
+It connects Codex to Microsoft Graph and Gmail so a local assistant can review
+inbox mail, scan for appointment confirmations, create or update calendar
+entries, find unread mail that may have been missed outside the Inbox, and build
+safe archive plans for low-value messages. The project also includes Codex
+skills for recurring workflows such as appointment harvesting, inbox triage,
+missed-mail review, and full mail review.
+
 This project is provided as-is. It works for my own setup, but it has not been
 tested broadly across other accounts, tenants, mail providers, or Outlook/Gmail
 configurations.
